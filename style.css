@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: gray; 
+}
+
+h1{
+    display: inline;
+    font-weight: 900;
+}
+
+#logo{
+    height: 80px;
+}
+
+.container{
+    width: 1440px;
+}
+
+
+
+
