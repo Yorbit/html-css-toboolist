@@ -6,14 +6,18 @@ body{
 h1{
     display: inline;
     font-weight: 900;
+    vertical-align: middle;
 }
 
 #logo{
-    height: 80px;
+    height: 60px;
+    vertical-align: middle;
 }
 
 .container{
-    width: 1440px;
+    width: 2560px;
+    height: 80px;
+    background-color: white;
 }
 
 
