@@ -128,3 +128,26 @@ ul{
     font-size: 10px;
 }
 
+.badge-blue{
+    background-color: rgb(69, 171, 234)
+}
+
+.badge-purple{
+    background-color: rgb(156, 114, 220)
+}
+
+.badge-green{
+    background-color: rgb(100, 192, 163)
+}
+
+.badge-orange{
+    background-color: rgb(242, 160, 51)
+}
+
+.badge-violet{
+    background-color: rgb(215, 100, 160)
+}
+
+.badge-lime{
+    background-color: rgb(176, 208, 40)
+}
